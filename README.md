@@ -1,3 +1,7 @@
+Demo
+
+https://yi-sheng-lee.github.io/vueBookStore/
+
 # tantan
 
 ## Project setup
